@@ -7,7 +7,7 @@
 - Created visualization tools to display bounding box detections on images.
 
 ## How to rum
-1. Clone this repo
+1. Clone this repo: https://github.com/shunmathi3/YOLO-Object-Detection.git
 2. Install dependencies: pip install -r requirement.txt
 3. Ensure data in data folder contains image and annotation files
 4. Run Data Loader Test: python yolo/data.py
