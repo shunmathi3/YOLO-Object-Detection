@@ -1,4 +1,4 @@
-# YOLO-Object-Detection-
+# YOLO-Object-Detection
 ## What I Have Done
 - Completed the YOLO loss function to properly assign predicted bounding boxes to ground truth boxes using IoU.
 - Implemented localization, confidence, and classification losses following the YOLO paper formulation.
